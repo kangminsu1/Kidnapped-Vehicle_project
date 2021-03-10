@@ -1,7 +1,7 @@
 # CarND-Kidnapped-Vehicle-P3
 Udacity Self-Driving Car Nanodegree - Kidnapped Vehicle project
 # Overview
-####This repository contains all the code required to complete the final project of the Localization process of Udacity's Self-Driving Car Nanodegree.
+#### This repository contains all the code required to complete the final project of the Localization process of Udacity's Self-Driving Car Nanodegree.
 ![Simulator init](images/initial_kidnapped.PNG)
 
 ## Introduction
